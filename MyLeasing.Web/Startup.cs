@@ -14,7 +14,6 @@ using Microsoft.Extensions.DependencyInjection;
 using MyLeasing.Web.Data;
 using MyLeasing.Web.Data.Entities;
 using MyLeasing.Web.Helpers;
-using MyLeasing.Web.Helpers.MyLeasing.Web.Helpers;
 
 namespace MyLeasing.Web
 {
